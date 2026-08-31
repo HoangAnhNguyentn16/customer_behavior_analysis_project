@@ -104,5 +104,5 @@ cd customer_behavior_analysis_project
 # Cài đặt các thư viện cần thiết
 pip install pandas sqlalchemy pyodbc jupyter
 
-# Mở và chạy file Jupyter Notebook (Thay tên_file_code.ipynb bằng tên file thực tế)
-jupyter notebook tên_file_code.ipynb
+# Mở và chạy file Jupyter Notebook
+jupyter notebook "Customer shopping s behavior Analysis.ipynb"
